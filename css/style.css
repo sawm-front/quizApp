@@ -16,6 +16,10 @@ body {
    max-width: 100%;
 }
 
+h2{
+   margin: 0;
+   text-align: center;
+}
 .quiz-header {
    padding: 4rem;
 }
